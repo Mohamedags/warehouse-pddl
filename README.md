@@ -120,8 +120,8 @@ Estimated bound ≈ 22.06, matching the TFD makespan exactly. For larger problem
 ---
 
 ## Authors
-*AGUENAROUS Mohamed
-*Ferdjallah Cheima
-*Mokrani Lisa
+- AGUENAROUS Mohamed
+- Ferdjallah Cheima
+- Mokrani Lisa
 
 
